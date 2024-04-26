@@ -6,3 +6,8 @@ terbomind 两种方式部署
 # 进阶作业
 ## 1.KV Cache最大占用比例为0.4，开启W4A16量化，以命令行方式与模型对话
 ![](b1.png)
+## 2.LMDeploy 运行视觉多模态大模型 llava gradio demo
+In terminal
+![](b2.png)
+In gradio
+![](b3.png)
